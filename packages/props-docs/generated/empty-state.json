@@ -1,0 +1,18 @@
+{
+  "EmptyStateRoot": {
+    "colorPalette": {
+      "defaultValue": "gray",
+      "type": "\"black\" | \"white\" | \"whiteAlpha\" | \"blackAlpha\" | \"gray\" | \"red\" | \"orange\" | \"yellow\" | \"green\" | \"teal\" | \"blue\" | \"cyan\" | \"purple\" | \"pink\"",
+      "required": false,
+      "description": "The color palette of the component"
+    },
+    "size": {
+      "type": "\"lg\" | \"md\"",
+      "defaultValue": "lg",
+      "required": false,
+      "description": "The size of the component"
+    }
+  },
+  "EmptyStateContent": {},
+  "EmptyStateIndicator": {}
+}
